@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Películas</string>
+    <string name="Title">Título de la película:</string>
+    <string name="Search">Buscar</string>
+    <string name="Image">Imagen de la película</string>
+    <string name="Year">Año:</string>
+    <string name="Runtime">Duración:</string>
+    <string name="Genre">Género:</string>
+    <string name="Director">Director:</string>
+    <string name="Actors">Actores:</string>
+    <string name="WR">xxxxxxxx</string>
+    <string name="Plot">Trama:</string>
+</resources>

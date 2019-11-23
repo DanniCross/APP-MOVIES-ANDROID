@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="Title">Movie\'s Title:</string>
+    <string name="Search">Search</string>
+    <string name="Image">Movie\'s Image</string>
+    <string name="Year">Year:</string>
+    <string name="Runtime">Runtime:</string>
+    <string name="Genre">Genre:</string>
+    <string name="Director">Director:</string>
+    <string name="Actors">Actors:</string>
+    <string name="WR">xxxxxxxx</string>
+    <string name="Plot">Plot:</string>
+</resources>
